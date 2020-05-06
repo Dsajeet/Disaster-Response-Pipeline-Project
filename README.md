@@ -62,3 +62,6 @@ Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK,
 
 3. Go to http://0.0.0.0:3001/http://view6914b2f4.3001/( open another Terminal window. Type `env|grep WORK`. You'll see output contains SPACEID and SPACEDOMAIN. 
 <br> In a new web browser window, type in the following: `https://SPACEID-3001.SPACEDOMAIN`. Subsitute the corresponding elements in the web address with the SPACEID and SPACEDOMAIN in the terminal window. Then, press Enter.)
+
+# Licensing, Authors, Acknowledgements
+Many thanks to Figure-8 for making this available to Udacity for training purposes. Special thanks to udacity for the training. Feel free to utilize the contents of this while citing me, udacity, and/or figure-8 accordingly.
