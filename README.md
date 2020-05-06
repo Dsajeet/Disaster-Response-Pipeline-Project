@@ -1,4 +1,4 @@
-# Disaster-Response-Pipelines Project(Natural Language Processing)
+# Disaster-Response-Pipelines Project(NLP)
  This project was completed as part of the course requirements of Udacity's [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
  
  ## Overview
@@ -11,7 +11,7 @@ In this project, we will build a model to classify messages that are sent during
 
 Finally, this project contains a web app where you can input a message and get classification results.
 
-![Screenshot of Web App](https://github.com/kumarAjeetsingh/Disaster-Response-Pipelines/blob/master/web_app.png)
+![Screenshot of Web App](https://github.com/kumarAjeetsingh/Disaster-Response-Pipeline-Project/blob/master/web_app.png)
 
 ## File Description
 ~~~~~~~
