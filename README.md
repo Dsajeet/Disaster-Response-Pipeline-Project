@@ -31,7 +31,6 @@ Finally, this project contains a web app where you can input a message and get c
                 |-- train_classifier.py
           |-- Preparation
                 |-- ETL Pipeline Preparation.ipynb
-                |-- ETL_Preparation.db
                 |-- ML Pipeline Preparation.ipynb
                 |-- README
           |-- README
