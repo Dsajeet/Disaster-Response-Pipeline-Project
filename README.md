@@ -60,5 +60,5 @@ Must runing with Python 3 with libraries of numpy, pandas, sqlalchemy, re, NLTK,
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/http://view6914b2f4.3001/[ open another Terminal window. Type `env|grep WORK`. You'll see output contains SPACEID and SPACEDOMAIN. 
-<br> In a new web browser window, type in the following: `https://SPACEID-3001.SPACEDOMAIN`. Subsitute the corresponding elements in the web address with the SPACEID and SPACEDOMAIN in the terminal window. Then, press Enter.]
+3. Go to http://0.0.0.0:3001/http://view6914b2f4.3001/( open another Terminal window. Type `env|grep WORK`. You'll see output contains SPACEID and SPACEDOMAIN. 
+<br> In a new web browser window, type in the following: `https://SPACEID-3001.SPACEDOMAIN`. Subsitute the corresponding elements in the web address with the SPACEID and SPACEDOMAIN in the terminal window. Then, press Enter.)
